@@ -1,5 +1,27 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 600,
+      "end_time": 610,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is crazy"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Description",
+          "category": "Film Analysis"
+        }
+      ],
+      "uuid": "f053510e-7de7-46db-9801-8dae2e89728a"
+    }
+  ],
   "set": "Default",
   "event_id": "a80d0b90-7427-4fa9-ab5e-dc7b4e146ec5",
   "source_id": "1dc7a80d-1ac8-45a7-b4b3-d39d390ce1c2"
