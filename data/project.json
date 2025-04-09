@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "jackDeVry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181752547?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "jackDeVry",
     "is_private": false,
@@ -96,6 +102,7 @@
       ]
     },
     "created_at": "2024-11-07T16:20:12.555Z",
-    "updated_at": "2024-11-07T16:31:57.297Z"
+    "updated_at": "2024-11-07T16:31:57.297Z",
+    "generate_pages_site": true
   }
 }
